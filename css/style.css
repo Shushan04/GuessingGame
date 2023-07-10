@@ -15,6 +15,16 @@ h3 {
     color: #333;
  
 }
+#reset{
+    left: 150px;
+    padding: 5px 10px;
+    font-size: 16px;
+    background-color: #7e0606;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
 #start{
     padding: 5px 10px;
     font-size: 16px;
