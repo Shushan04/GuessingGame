@@ -76,6 +76,7 @@ const startGame = async () => {
   updateGuessesUI(guesses, cities);
 };
 
+
 const resetResults = () => {
   // Clear the results from the UI
   document.getElementById('result').innerHTML = '';
@@ -83,6 +84,7 @@ const resetResults = () => {
 
 // Add a click event listener to the "reset" button
 document.getElementById('reset').addEventListener('click', resetResults);
+
 // Add a click event listener to the "start" button
 document.getElementById('start').addEventListener('click', startGame);
 

@@ -16,10 +16,9 @@ h3 {
  
 }
 #reset{
-    left: 150px;
     padding: 5px 10px;
     font-size: 16px;
-    background-color: #7e0606;
+    background-color: #6b0000;
     color: white;
     border: none;
     border-radius: 4px;
